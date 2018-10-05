@@ -1,2 +1,0 @@
-serviceClass: com.victoranica.myproject.client.CustomerService
-path: 1DD9B4EC077327F797BD78946DD18CF6.gwt.rpc
