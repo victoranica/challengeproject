@@ -1,0 +1,3 @@
+# Module myproject
+# RPC service class, partial path of RPC policy file
+com.victoranica.myproject.client.CustomerService, 1DD9B4EC077327F797BD78946DD18CF6.gwt.rpc
